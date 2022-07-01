@@ -5,7 +5,7 @@ Projeto feito durante curso na alura.
 
 Porém estou fazendo modificações para meu aprendizado.
 
-O banco antes utilizado era o H2 eu mudei para o postgre.
+O banco antes utilizado era o H2 eu mudei para o postgres.
 
 Também implementei o swagger.
 
